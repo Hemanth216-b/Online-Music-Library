@@ -6,12 +6,9 @@
  range of features and advantages that enhance the users overall musical
  experiences. The users can access their music library through this ‘Online
  Music Library’ website. It contains 3 modules.
- 1.
- 2.
- 3.
- Admin
- Artists
- User
+ 1.Admin
+ 2.Artists
+ 3.User
  The admin can login through the website with the by default credentials.
  The Artists can register into the website by giving their details. After that the
  admin views the registered hosts and verifies their accounts then only the
